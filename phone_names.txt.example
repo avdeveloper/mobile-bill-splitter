@@ -1,0 +1,11 @@
+# Phone Number to Name Mapping
+# Format: <10-digit phone number>: <Name>
+# Copy this file to phone_names.txt and customize with your phone numbers
+
+5551234567: Alice
+5552345678: Bob
+5553456789: Charlie
+5554567890: Diana
+5555678901: Eve
+5556789012: Frank
+5557890123: Grace
